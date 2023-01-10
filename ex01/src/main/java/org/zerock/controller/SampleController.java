@@ -11,14 +11,17 @@ import org.zerock.domain.SampleDTOList;
 
 import lombok.extern.log4j.Log4j;
 
+
 @Controller
 @RequestMapping("/sample/*")
 @Log4j
+
 public class SampleController {
 	
 	@GetMapping("/basicOnlyGet")
 	public void basic() {
 		log.info("basic get..........");
+		
 	}
 	
 	@GetMapping("/ex01")
