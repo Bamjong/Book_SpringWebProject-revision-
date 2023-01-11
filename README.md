@@ -14,7 +14,8 @@
 
 
 ## ex01 
-스프링 MVC 설정
+스프링 MVC 설정  
+[6.6 Controller의 Exception 처리 제외]
 ## ex02 
 기본적인 웹 게시물 관리 (CRUD)
 ## ex03 
