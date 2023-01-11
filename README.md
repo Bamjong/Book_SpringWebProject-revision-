@@ -18,6 +18,7 @@
 [6.6 Controller의 Exception 처리 제외]
 ## ex02 
 기본적인 웹 게시물 관리 (CRUD)
+[안해요 이거 걍 DB연결하는거 같은데 할줄알아서 안합니다.]
 ## ex03 
 REST 방식과 Ajax를 이용하는 댓글 처리
 ## ex04 
